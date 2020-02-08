@@ -1,0 +1,25 @@
+.current-user {
+  color: red;
+}
+/*.user-info {*/
+/*  display: flex;*/
+/*  justify-content: space-between;*/
+/*  flex-direction: row;*/
+/*}*/
+.mystatus{
+  float: left;
+}
+.logout{
+  float: right !important;
+}
+.main-page{
+  /*border: 1px solid #fff;*/
+  height: calc(100vh - 40px);
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 20px auto;
+
+}

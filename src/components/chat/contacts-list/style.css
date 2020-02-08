@@ -1,0 +1,11 @@
+/* .col {
+  background-color: #1b1b1b;
+} */
+.contacts {
+    border-right: 1px solid #403f3f;
+    height: max-content;
+}
+
+.header p {
+    color: #c3c3c3
+}

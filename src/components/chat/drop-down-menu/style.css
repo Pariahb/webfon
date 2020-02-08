@@ -1,0 +1,58 @@
+.dropdown {
+    display: inline-block !important;
+}
+.avatar .offline,
+ .avatar .chat,
+ .avatar .away,
+ .avatar .dnd {
+     height: 15px;
+     width: 15px;
+     border-radius: 50%;
+     display: inline-block;
+     position: absolute;
+     left: 50px;
+     bottom: 8px;
+ }
+
+.mystatus span {
+    color: #fff;
+    -webkit-border-top-right-radius: 0.25rem;
+    -webkit-border-bottom-right-radius: 0.25rem;
+    -moz-border-radius-topright: 0.25rem;
+    -moz-border-radius-bottomright: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    padding: .375rem .75rem;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: transparent !important;
+    border-color: gray !important;
+    border: 1px solid !important;
+    padding: 0 8px !important;
+}
+
+.mystatus {
+    color: #fff;
+    text-align: left;
+
+}
+
+.offline {
+    background-color: gray !important;
+}
+
+.chat {
+    background-color: green;
+}
+
+.away {
+    background-color: orange;
+}
+
+.dnd {
+    background-color: red;
+}

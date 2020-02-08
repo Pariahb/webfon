@@ -1,0 +1,35 @@
+.col-sm-8.chat-box {
+    position: fixed;
+    bottom: 0;
+}
+
+.userInfo-bar p {
+    margin: 0 !important;
+}
+
+.textbox {
+    /*display: flex;*/
+    /* bottom: 0; */
+    /*flex-direction: row;*/
+    /*justify-content: space-between;*/
+    /* position: inherit; */
+}
+
+.rec-texts {
+    direction: rtl;
+}
+
+.all-messages {
+    overflow-y: scroll;
+    height: calc(100vh - 180px);
+}
+
+.all-messages::-webkit-scrollbar {
+    width: 0 !important;
+}
+
+
+.archive li {
+    list-style: none;
+
+}

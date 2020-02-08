@@ -1,0 +1,41 @@
+.tabTitle{
+    font-size: 20px;
+    text-align: left;
+    color: #b3b3b3;
+}
+.detail {
+    background-color: gray;
+}
+
+.spinner {
+    margin: 10% auto !important;
+}
+
+.spinner svg {
+    overflow: visible;
+    text-align: center;
+    height: 40px !important;
+    width: 40px !important;
+}
+
+
+.history {
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*justify-content: space-between;*/
+}
+
+.history p {
+    font-size: 12px;
+    margin: 5px 0;
+    line-height: 2;
+    /* border: 1px solid black; */
+    text-align: left;
+    color: #b3b3b3;
+}
+
+.groups {
+    display: flex;
+    flex-direction: row;
+}
+

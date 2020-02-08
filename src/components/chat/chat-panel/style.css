@@ -1,0 +1,21 @@
+.chat-panel {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* overflow-y: scroll; */
+    padding: 0;
+    border: 1px solid gray;
+}
+.chat-panel p {
+    color: #ffffff;
+}
+
+.userInfo-bar {
+    color: #fff;
+    text-align: left;
+    line-height: 2;
+    font-size: 14px;
+    border-bottom: 1px solid gray;
+    padding: 0 10px;
+    background-color: #17a2b8;
+}

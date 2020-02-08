@@ -1,0 +1,19 @@
+.category {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.title{
+    text-align: left;
+    color: #b3b3b3;
+    font-weight: bold;
+}
+.categoryBox{
+    margin: 15px 0;
+}
+
+.tabTitle{
+    font-size: 20px;
+    text-align: left;
+    color: #b3b3b3;
+}

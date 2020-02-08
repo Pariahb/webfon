@@ -1,0 +1,27 @@
+.userName {
+    font-weight: bold;
+}
+
+.image img {
+    width: 120px;
+    height: 120px;
+}
+
+
+.group {
+    background: #000;
+    margin: 10px 0;
+    padding: 0 0 0 0;
+}
+
+.group p {
+    margin: 0 10px;
+    text-align: left;
+    line-height: 2;
+}
+
+.date {
+    display: flex;
+    flex-direction: column;
+    font-size: 9pt;
+}
